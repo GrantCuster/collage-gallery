@@ -1,0 +1,455 @@
+{
+  "updatedAt": "2026-11-17T18:12:19.533Z",
+  "posts": [
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3n2hez34ye22w",
+      "cid": "bafyreib5bknzkr4zh2rrhlnu7vytoilq7nk3hoqugimoty2ehimd2v5rpm",
+      "text": "Collage ↓\nHow to Layout a Whole Earth Catalog\n\nOriginal scan:\nwholeearth.info/p/the-last-w...",
+      "createdAt": "2026-11-16T20:37:11.880Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3n2hez34ye22w",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://wholeearth.info/p/the-last-whole-earth-catalog-january-1971"
+            }
+          ],
+          "index": {
+            "byteEnd": 95,
+            "byteStart": 64
+          }
+        }
+      ],
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreihtwcmmuwr5qoae5tsld4wb2bvyxdcwtzupfioau2spnqg7dxuvwu",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreihtwcmmuwr5qoae5tsld4wb2bvyxdcwtzupfioau2spnqg7dxuvwu",
+          "alt": "",
+          "aspectRatio": {
+            "height": 830,
+            "width": 612
+          }
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3n2gy22e5pc2t",
+      "cid": "bafyreias77r63gf5jetsijrfxr4pbewptm7jnpgmy6t2tjgdwf3hfd3ixe",
+      "text": "Tilting the tabletop:",
+      "createdAt": "2026-11-16T16:45:05.976Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3n2gy22e5pc2t",
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreiavoss4ljhfrl7vpxy57irjkudttyu3cdsqxye3waq4bnl24r4r4y",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreiavoss4ljhfrl7vpxy57irjkudttyu3cdsqxye3waq4bnl24r4r4y",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1080,
+            "width": 1080
+          }
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3n2gvs3ai2k2f",
+      "cid": "bafyreifpqjjudzpq6wu5obons35tt3xcuf5hg23ahf56jkiz6rg2wv5poe",
+      "text": "Collaged ↓\n_A Tour of the Acme Editor_ by Russ Cox\n\nOriginal video:\nwww.youtube.com/watch?v=dP1x...",
+      "createdAt": "2026-11-16T16:04:50.986Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3n2gvs3ai2k2f",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=dP1xVpMPn8M"
+            }
+          ],
+          "index": {
+            "byteEnd": 101,
+            "byteStart": 70
+          }
+        }
+      ],
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreiekwqqscl7n3ujs47lumakhqvsjfdmd7rqhs5xg6aq5goasf6r4je",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreiekwqqscl7n3ujs47lumakhqvsjfdmd7rqhs5xg6aq5goasf6r4je",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1080,
+            "width": 1080
+          }
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3n27xbpewfc2w",
+      "cid": "bafyreibbupqsbecztzyj3cebollzu5u4gywhfqcjtuexfr3q5nzvwhd37e",
+      "text": "I played Corrypt by Micheal Brough and collaged some thoughts about it:",
+      "createdAt": "2026-11-13T21:42:50.993Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3n27xbpewfc2w",
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreibpdl5boti76u3kngef4qv3vmcmtjctsymz3sipeqt5datl3qytle",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreibpdl5boti76u3kngef4qv3vmcmtjctsymz3sipeqt5datl3qytle",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1348,
+            "width": 1142
+          }
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mzxsovhy2227",
+      "cid": "bafyreigm53kzjcopzwxqo2soz6mpikcrukldd7dj4xdxxswh5a25rmnrea",
+      "text": "Collage of my thoughts on a 2006 demo of multi-touch interface design as mentioned by @doriantaylor.com. The core of it holds up well!\n\nOriginal video www.youtube.com/watch?v=ac0E...",
+      "createdAt": "2026-11-10T15:59:26.974Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mzxsovhy2227",
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:ulsvrqhqegjw5gh7lxyav4yq"
+            }
+          ],
+          "index": {
+            "byteEnd": 103,
+            "byteStart": 86
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=ac0E6deG4AU"
+            }
+          ],
+          "index": {
+            "byteEnd": 182,
+            "byteStart": 151
+          }
+        }
+      ],
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreiddj75awnnym3xwwhmawgbjjmqltxogj4yupvqfe43qqs3nuoerse",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreiddj75awnnym3xwwhmawgbjjmqltxogj4yupvqfe43qqs3nuoerse",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1108,
+            "width": 1248
+          }
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mzvfcmtvp222",
+      "cid": "bafyreifatke3eww2672qyetla5b3rscfbzpgbz2cepezbpo5ygg6vr25pi",
+      "text": "Collage of my thoughts on the \"Held Quasimode\" interface pattern (AKA the body holds the state).\n\nFrom interfacelineage.com/quasimodes-h...",
+      "createdAt": "2026-11-09T16:54:37.156Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mzvfcmtvp222",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://interfacelineage.com/quasimodes-hold-themselves"
+            }
+          ],
+          "index": {
+            "byteEnd": 139,
+            "byteStart": 103
+          }
+        }
+      ],
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreidqrbombm5woy36fngtjdd3udumh5bi6xdyfl2f22v4rnood7oksa",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreidqrbombm5woy36fngtjdd3udumh5bi6xdyfl2f22v4rnood7oksa",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1230,
+            "width": 819
+          }
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mznoqvc3oc27",
+      "cid": "bafyreihzfbyvo35nteatq6d426wwwm4izqmm2abphkgu7yg2grl6k5lbfe",
+      "text": "Collage of impressions from the BumpTop demo (from 20 years ago!):\n\nThanks to @just-be.dev for the recommendation. Original video at www.youtube.com/watch?v=M0OD...",
+      "createdAt": "2026-11-06T15:22:21.539Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mznoqvc3oc27",
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:zxkg5d6y6uhrsoctq7wgwqul"
+            }
+          ],
+          "index": {
+            "byteEnd": 90,
+            "byteStart": 78
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=M0ODskdEPnQ"
+            }
+          ],
+          "index": {
+            "byteEnd": 164,
+            "byteStart": 133
+          }
+        }
+      ],
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreidwarsdy26fdkkjndibnljyhgvxddoglkae2lqlxfszl6nm6xwjii",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreidwarsdy26fdkkjndibnljyhgvxddoglkae2lqlxfszl6nm6xwjii",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1748,
+            "width": 1225
+          }
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mze4figojs2e",
+      "cid": "bafyreifsucym2s2fi6s2spco4xcp5ccufwarsbpr4pcy4tfwye4yibu744",
+      "text": "My highlights from the maintenance chapter of How Buildings Learn:",
+      "createdAt": "2026-11-02T19:59:53.962Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mze4figojs2e",
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreigprvgjuvegi7zalscdba2evjeeyy23ssqbe345tzul7qpa26d36e",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreigprvgjuvegi7zalscdba2evjeeyy23ssqbe345tzul7qpa26d36e",
+          "alt": "",
+          "aspectRatio": {
+            "height": 839,
+            "width": 1080
+          }
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mzdntxirls2s",
+      "cid": "bafyreicrdlouj5ht25kd3cqhrzhan2wzutemgzyhc4s6xc5s2ydlzcuu6y",
+      "text": "Inspiration and primary colors:",
+      "createdAt": "2026-11-02T15:39:33.395Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mzdntxirls2s",
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreigw3pae5tdwxgtukcx2woug7r353gz773bd3ewpnn6z2sx2lzx6lm",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreigw3pae5tdwxgtukcx2woug7r353gz773bd3ewpnn6z2sx2lzx6lm",
+          "alt": "",
+          "aspectRatio": {
+            "height": 765,
+            "width": 983
+          }
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mz7457d5ps27",
+      "cid": "bafyreie3vxlmy5z3exad6jhrw4aniucshc5yhwgihh7bwejq6uzoe5itxi",
+      "text": "Collage and commentary for asteriskmag.com/issues/15/af...",
+      "createdAt": "2026-10-31T20:11:57.282Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mz7457d5ps27",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://asteriskmag.com/issues/15/after-work-we-ll-have-each-other"
+            }
+          ],
+          "index": {
+            "byteEnd": 58,
+            "byteStart": 27
+          }
+        }
+      ],
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreihayy5vxr5avfc733lc2xtslh6kgn7oadinilr4hlt2ry2g6lclh4",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreihayy5vxr5avfc733lc2xtslh6kgn7oadinilr4hlt2ry2g6lclh4",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1300,
+            "width": 991
+          }
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3myzgayfsx22r",
+      "cid": "bafyreielik3isjkgl7pbibgmitrpizrycwhxao7qzqp3a7fhrjdoqkc3xa",
+      "text": "A collage of highlights from asteriskmag.com/issues/16/si... via x.com/xhfloz/statu...",
+      "createdAt": "2026-10-29T13:57:03.235Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3myzgayfsx22r",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://asteriskmag.com/issues/16/six-gutenberg-revolutions-in-a-row"
+            }
+          ],
+          "index": {
+            "byteEnd": 60,
+            "byteStart": 29
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://x.com/xhfloz/status/2114471768643518858"
+            }
+          ],
+          "index": {
+            "byteEnd": 86,
+            "byteStart": 65
+          }
+        }
+      ],
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreig55yi65fhjojcp6ctb5fyagu42hxyo5t3l6djj4afbfsz2uz2hju",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreig55yi65fhjojcp6ctb5fyagu42hxyo5t3l6djj4afbfsz2uz2hju",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1080,
+            "width": 1080
+          }
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3myq3x2rgqk2u",
+      "cid": "bafyreidm6462yll3tolyzfkhw3yzch5egv6ajduoszrqtnt7jv2h3b6chi",
+      "text": "Collage made from Maggie Appleton's \"Planning with Agents\" talk/essay:",
+      "createdAt": "2026-10-25T20:58:35.105Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3myq3x2rgqk2u",
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifbu34wy3n6ahhjsbynq35glubx6ucbnf5zd7nfh27y7l7eev4the",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifbu34wy3n6ahhjsbynq35glubx6ucbnf5zd7nfh27y7l7eev4the",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1238,
+            "width": 1048
+          }
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3myftel5fss2b",
+      "cid": "bafyreifkd5z72n2eddcvx7aykabdhfvuiewd2izwkjbw6bubym2cthi4oq",
+      "text": "The Computer for the 21st Century collage inspired by an @andymatuschak.org reference.\n\n(putting my digital collage setup through its paces)",
+      "createdAt": "2026-10-21T18:58:27.421Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3myftel5fss2b",
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:rtxilcy6fbyjtblrioz3iobn"
+            }
+          ],
+          "index": {
+            "byteEnd": 75,
+            "byteStart": 57
+          }
+        }
+      ],
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreib6zbvxxjsu325mfekz3vsoccso32qm2m3pa23pyqlenuvdpmbnti",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreib6zbvxxjsu325mfekz3vsoccso32qm2m3pa23pyqlenuvdpmbnti",
+          "alt": "",
+          "aspectRatio": {
+            "height": 968,
+            "width": 1080
+          }
+        }
+      ]
+    }
+  ]
+}
