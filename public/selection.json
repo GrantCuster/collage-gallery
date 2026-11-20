@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-11-18T15:25:25.356Z",
+  "updatedAt": "2026-11-20T17:28:05.501Z",
   "posts": [
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3n2mhhxiits2w",
+      "cid": "bafyreibwjfwo2uz4w4gslipyxwub3qsxx64pqlw4lc3xs7k54e73b5ei2y",
+      "text": "A tour of the OLPC XO-1. I'm thinking about turning an extra laptop into a \"dumb\" typing and sketching machine and remembered this system being interesting:",
+      "createdAt": "2026-11-18T21:04:37.554Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3n2mhhxiits2w",
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreiezjp44v4qzg3wjcw2sqazex5ol3kq6skcs6mxa55fxusttifzhhy",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreiezjp44v4qzg3wjcw2sqazex5ol3kq6skcs6mxa55fxusttifzhhy",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1743,
+            "width": 1080
+          }
+        }
+      ]
+    },
     {
       "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3n2lugr5bys25",
       "cid": "bafyreigkw7yiha2ee7issb5wzsktj5mnzxcqbrdd5hpvruniqiuoobefpu",
