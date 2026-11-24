@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-11-20T17:28:05.501Z",
+  "updatedAt": "2026-11-24T14:59:12.769Z",
   "posts": [
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3n32vo2uims2a",
+      "cid": "bafyreiddwelnuugnqghcar76prc3pr75abwqjjccpjsf6psc6noxz4tc6m",
+      "text": "Exploring the set of promptable products released by inanimate.tech (@genmon.fyi and team)",
+      "createdAt": "2026-11-24T14:55:51.140Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3n32vo2uims2a",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://inanimate.tech"
+            }
+          ],
+          "index": {
+            "byteEnd": 67,
+            "byteStart": 53
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:wx5elk5kexfdhp2w3jewkn6w"
+            }
+          ],
+          "index": {
+            "byteEnd": 80,
+            "byteStart": 69
+          }
+        }
+      ],
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreibbwwsdmf22zjhpa6xaplxuvzlsm3yvl7wz6jmqsgiksp3i335ckq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreibbwwsdmf22zjhpa6xaplxuvzlsm3yvl7wz6jmqsgiksp3i335ckq",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1733,
+            "width": 1080
+          }
+        }
+      ]
+    },
     {
       "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3n2mhhxiits2w",
       "cid": "bafyreibwjfwo2uz4w4gslipyxwub3qsxx64pqlw4lc3xs7k54e73b5ei2y",
